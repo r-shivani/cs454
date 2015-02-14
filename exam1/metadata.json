@@ -1,0 +1,205 @@
+{
+file: c:\\file1.xlsx
+date: '2015-02-08 06:53:14.331498 '
+author :'BUILTIN\Administrators'
+}
+{
+file: d:\Study Csula\cs454\cs454\exam1\file1.xlsx
+date: '2015-02-07 22:00:10.845073 '
+author :'Home-PC\user'
+}
+{
+file: d:\Study Csula\cs454\cs454\exam1\file2.xlsx
+date: '2015-02-07 22:48:08.705154 '
+author :'Home-PC\user'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\protect.xlsx
+date: '2015-02-07 02:16:34.199576 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\protectedFile.xlsx
+date: '2015-02-07 02:16:34.215197 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\protectedSheets.xlsx
+date: '2015-02-07 02:16:34.215197 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testComment.xlsx
+date: '2015-02-07 02:16:35.621454 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL-formats.xlsx
+date: '2015-02-07 02:16:36.959194 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL.xlsx
+date: '2015-02-07 02:16:36.990443 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_1img.xlsx
+date: '2015-02-07 02:16:37.006073 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_custom_props.xlsx
+date: '2015-02-07 02:16:37.037286 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_embeded.xlsx
+date: '2015-02-07 02:16:37.052948 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_protected_passtika.xlsx
+date: '2015-02-07 02:16:37.131303 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_textbox.xlsx
+date: '2015-02-07 02:16:37.146927 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-parsers\src\test\resources\test-documents\testXLSX_Thumbnail.xlsx
+date: '2015-02-07 02:16:41.470676 '
+author :'BUILTIN\Administrators'
+}
+{
+file: c:\Program Files\tika-1.7\tika-server\src\test\resources\pic.xlsx
+date: '2015-02-07 02:16:42.689807 '
+author :'BUILTIN\Administrators'
+}
+{
+file: D:\Study Csula\cs454\cs454\exam1\.\file1.xlsx
+date: '2015-02-07 22:00:10.845073 '
+author :'Home-PC\user'
+}
+{
+file: D:\Study Csula\cs454\cs454\exam1\.\file2.xlsx
+date: '2015-02-07 22:48:08.705154 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\Hardik\Documents\Book1.xlsx
+date: '2013-07-31 01:02:26.591692 '
+author :'S-1-5-21-32815130-3108543757-1651509406-1002'
+}
+{
+file: c:\Users\Hardik\Downloads\Accounts 13-14 new.xlsx
+date: '2013-11-15 22:04:38.112001 '
+author :'S-1-5-21-32815130-3108543757-1651509406-1002'
+}
+{
+file: c:\Users\Hardik\Downloads\cash book.xlsx
+date: '2013-11-08 15:26:40.914016 '
+author :'S-1-5-21-32815130-3108543757-1651509406-1002'
+}
+{
+file: c:\Users\user\Desktop\exam1\file1.xlsx
+date: '2015-02-08 05:11:42.311285 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Desktop\exam1\file2.xlsx
+date: '2015-02-08 05:11:42.311285 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Documents\Maven_backup\exam1\hello.xlsx
+date: '2015-02-07 23:27:35.157543 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Documents\Maven_backup\exam1\New Microsoft Excel Worksheet.xlsx
+date: '2015-02-07 23:27:35.157543 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Documents\Maven_backup\exam1\testing.xlsx
+date: '2015-02-08 00:09:33.124167 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\exam1\file1.xlsx
+date: '2015-02-08 07:04:49.843673 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\exam1\file2.xlsx
+date: '2015-02-08 07:04:49.859298 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\protect.xlsx
+date: '2015-02-07 02:15:49.660734 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\protectedFile.xlsx
+date: '2015-02-07 02:15:47.380954 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\protectedSheets.xlsx
+date: '2015-02-07 02:15:47.271572 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testComment.xlsx
+date: '2015-02-07 02:15:48.86632 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL-formats.xlsx
+date: '2015-02-07 02:15:43.650182 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL.xlsx
+date: '2015-02-07 02:15:53.527867 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_1img.xlsx
+date: '2015-02-07 02:15:47.459075 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_custom_props.xlsx
+date: '2015-02-07 02:15:47.865325 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_embeded.xlsx
+date: '2015-02-07 02:15:52.934119 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_protected_passtika.xlsx
+date: '2015-02-07 02:15:48.881914 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testEXCEL_textbox.xlsx
+date: '2015-02-07 02:15:52.871619 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-parsers\src\test\resources\test-documents\testXLSX_Thumbnail.xlsx
+date: '2015-02-07 02:15:52.227034 '
+author :'Home-PC\user'
+}
+{
+file: c:\Users\user\Downloads\tika-1.7-src\tika-1.7\tika-server\src\test\resources\pic.xlsx
+date: '2015-02-07 02:15:59.962637 '
+author :'Home-PC\user'
+}

@@ -1,0 +1,7 @@
+1. Zipf's law states that the frequency of any word is inversely proportional to its rank in frequency table. So most occurring word has low ranking than less occurring word. so it is also applicable other than information retrieval, for example population and cities. if population will increases city rank also increase because of income they both inversely proportion to each other.
+
+2. With the use of website's sitemap, we can reach to a page which does not have links to this. In sitemap there is <url> tag from which we can identify page without help of link. 
+
+3. Because anchor tag contains link that generally leads to another page or images. Anchor text contains accurate description or information about that link. Anchor text is very useful because through which we easily find some another link with description. If description of anchor text matches with our interested search area we can then elaborate it. We can easily get the idea about link with the help of anchor text before open link itself.
+
+4. Magic header contains binary data which also includes small description about content of that page. So without looking at content we can easily know the type of file just by looking in magic header. It is more reliable to use magic numbers than file extension.
